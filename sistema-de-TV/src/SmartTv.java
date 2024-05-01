@@ -3,6 +3,7 @@ public class SmartTv {
     int canal = 1;
     int volume = 8;
 
+<<<<<<< HEAD
     public void mudarCanal(int novoCanal){
         canal = novoCanal;
     }
@@ -15,6 +16,8 @@ public class SmartTv {
         canal--;
     }
 
+=======
+>>>>>>> 09976d584c6ed0bac441c7dc7589e96b6aea5edd
     public void aumentarVolume(){
         volume++;
         System.out.println("aumentando volume para: "+volume);
