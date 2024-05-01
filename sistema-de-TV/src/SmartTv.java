@@ -3,7 +3,6 @@ public class SmartTv {
     int canal = 1;
     int volume = 8;
 
-<<<<<<< HEAD
     public void mudarCanal(int novoCanal){
         canal = novoCanal;
     }
